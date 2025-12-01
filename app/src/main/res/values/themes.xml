@@ -12,6 +12,7 @@
         <item name="windowSplashScreenAnimatedIcon">@drawable/logo</item>
 
         <item name="postSplashScreenTheme">@style/Theme.Pro</item>
+
     </style>
 
 </resources>
